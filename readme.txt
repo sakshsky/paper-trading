@@ -117,5 +117,5 @@ ws.on('message', async (data) => {
 //
 // 3. In another terminal, start the bot:
 //    node bot-listener.js
-//
+//a
 // It will automatically buy/sell based on received fake signals.
